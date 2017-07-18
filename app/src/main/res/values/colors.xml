@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="title">#69B9C6</color>
+    <color name="hui">#ADADAD</color>
+    <color name="bule">#4FB0BD</color>
+    <color name="radio_text_blue">#71C3C8</color>
+    <color name="radio_text_grey">#BABBBF</color>
+    <color name="fragment_backgroud">#EDEDED</color>
+    <color name="white">#ffffff</color>
+
+</resources>
